@@ -1,6 +1,6 @@
-zu erst mussen sie die project file(Shopping-cart-V1.1)  herunterladen
-danach die file entpacken und
- dann der ordner mit Visual Studio Code eröffen
- und im Visual Studio Code  ein terminal öffnen
-und   nodemon in terminal schreiben
-am end im browser  nach (http://localhost:5000/)  suchen  
+First you have to download the project file (Shopping-cart-V1.1)
+then unzip the file and
+ then open the folder with Visual Studio Code
+ and open a terminal in Visual Studio Code
+and write nodemon in the terminal
+at the end search for (http: // localhost: 5000 /) in the browser

@@ -4,3 +4,10 @@ then unzip the file and
  and open a terminal in Visual Studio Code
 and write nodemon in the terminal and press Enter
 at the end search for (http://localhost: 5000/) in the browser
+//////////////////////////////////////////////////////////
+what you need to test the Checkout in the app
+number: (for example: “4242424242424242”)
+exp_month:  (for example: '12')
+exp_year:  (for example: '2023')
+cvc:  (for example: '123')
+////////////////////////////////////////////////////////

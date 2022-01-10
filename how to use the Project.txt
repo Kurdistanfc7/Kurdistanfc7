@@ -1,6 +1,6 @@
-First you have to download the project file (Shopping-cart-V1.2.rar)
+First you have to download the project file (Shopping-cart-V1.3.rar)
 then unzip the file and
- then open the folder(Shopping-cart-V1.2) with Visual Studio Code
+ then open the folder(Shopping-cart-V1.3) with Visual Studio Code
  and open a terminal in Visual Studio Code
 and write nodemon in the terminal and press Enter
 at the end search for (http://localhost: 5000/) in the browser
